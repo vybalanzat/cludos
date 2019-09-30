@@ -1,0 +1,36 @@
+h1 {
+    padding: 20px;
+    z-index: 99;
+}
+
+ul {
+    float: right;
+    
+}
+
+footer {
+    position: relative;
+}
+
+.img-thumbnail {
+    width: 300px;
+    margin: 25px;
+}
+
+h4 {
+   text-align: center;
+
+}
+
+.auth-image {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+  }
+
+
+
+
+
